@@ -8,7 +8,7 @@ st.markdown("Quickly search and view TEKS by code or keyword.")
 
 # Load JSON files from 'data' folder
 st.markdown("These TEKS sets are preloaded from the repository. To update, upload a new .json file to the /data folder in the GitHub repo.")
-data_folder = "data"
+data_folder = os.path.join(os.path.dirname(__file__), "data")
 available_files = [f for f in os.listdir(data_folder) if f.endswith(".json")]
 
 if not available_files:
