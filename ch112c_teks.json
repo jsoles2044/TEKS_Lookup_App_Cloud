@@ -1,0 +1,816 @@
+{
+  "Unknown": {
+    "ch112c": [
+      {
+        "Code": "8.1",
+        "Strand": "Biology. Students in Biology focus on patterns, processes, and relationships of living organisms",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts--biological structures, functions, and processes. The student knows that",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts--biological structures, functions, and processes. The student knows how an",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts--mechanisms of genetics. The student knows the role of nucleic acids in gene",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts--mechanisms of genetics. The student knows the role of nucleic acids and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts--biological evolution. The student knows evolutionary theory is a scientific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Science concepts--biological evolution. The student knows evolutionary theory is a scientific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Science concepts--biological structures, functions, and processes. The student knows the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Science concepts--biological structures, functions, and processes. The student knows that",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Science concepts--interdependence within environmental systems. The student knows that",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Chemistry. In Chemistry, students conduct laboratory and field investigations, use scientific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student understands the development of the Periodic Table and applies its",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student understands the development of atomic theory and applies it to real-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows how atoms form ionic, covalent, and metallic bonds. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student understands how matter is accounted for in chemical substances.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts. The student understands how matter is accounted for in chemical reactions. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Science concepts. The student understands the principles of the kinetic molecular theory and ideal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Science concepts. The student understands and can apply the factors that influence the behavior of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Science concepts. The student understands and applies various rules regarding acids and bases.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Science concepts. The student understands the energy changes that occur in chemical reactions.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Science concepts. The student understands the basic processes of nuclear chemistry. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Integrated Physics and Chemistry. In Integrated Physics and Chemistry, students conduct",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student knows the relationship between force and motion in everyday life.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student knows the impact of energy transfer and energy conservation in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows that relationships exist between the structure and properties",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student knows that changes in matter affect everyday life. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physics. In Physics, students conduct laboratory and field investigations, use scientific practices",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student knows and applies the laws governing motion in a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student knows the nature of forces in the physical world. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows that changes occur within a physical system and applies the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student knows the characteristics and behavior of waves. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts. The student knows examples of quantum phenomena and their applications. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Aquatic Science. In Aquatic Science, students study the interactions of biotic and abiotic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands how the properties of water build the foundation of aquatic ecosystems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Students know that aquatic environments are the product of interactions among Earth systems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student knows about the interdependence and interactions that occur in aquatic environments.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student conducts short-term and long-term studies on local aquatic environments. Local",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student knows the role of cycles in an aquatic environment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student knows the origin and potential uses of fresh water. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student knows that geological phenomena and fluid dynamics affect aquatic systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student understands the types of aquatic ecosystems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student knows environmental adaptations of aquatic organisms. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student understands how human activities impact aquatic environments. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Astronomy. In Astronomy, students focus on patterns, processes, and relationships among",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student understands how astronomy influenced and advanced civilizations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student conducts and explains astronomical observations made from the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows our relative place in the solar system. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student observes and models the interactions within the Sun, Earth, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts. The student models the cause of planetary seasons. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Science concepts. The student knows how astronomical tools collect and record information about",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Science concepts. The student uses models to explain the formation, development, organization,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Science concepts. The student knows that our Sun serves as a model for stellar activity. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Science concepts. The student understands the characteristics and life cycle of stars. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Science concepts. The student knows the structure of the universe and our relative place in it. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Science concepts. The student knows the scientific theories of cosmology. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Science concepts. The student understands the benefits and challenges of expanding our",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Earth Systems Science. The Earth Systems Science course is designed to build on students' prior",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student understands the formation of the Earth and how objects in the solar",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student knows the evidence for the formation and composition of Earth's",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows that rocks and fossils provide evidence for geologic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student knows how the Earth's interior dynamics and energy flow drive",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts. The student knows that the lithosphere continuously changes as a result of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Science concepts. The student knows how the physical and chemical properties of the ocean affect",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Science concepts. The student knows that dynamic and complex interactions among Earth's",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Science concepts. The student understands how Earth's systems affect and are affected by human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Science concepts. The student explores global policies and careers related to the life cycles of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Environmental Systems. In Environmental Systems, students conduct laboratory and field",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific hypotheses and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific inquiry. Scientific inquiry is the planned and deliberate investigation of the natural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Science concepts. The student knows the relationships of biotic and abiotic factors within habitats,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Science concepts. The student knows the interrelationships among the resources within the local",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Science concepts. The student knows the sources and flow of energy through an environmental",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science concepts. The student knows the relationship between carrying capacity and changes in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Science concepts. The student knows that environments change naturally. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Science concepts. The student knows how humans impact environmental systems through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Science concepts. The student understands how individual and collective actions impact",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Science concepts. The student understands how ethics and economic priorities influence",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Science concepts. The student knows how legislation mediates human impacts on the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Specialized Topics in Science is intended to diversify programs of science study and give students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student, for at least 40% of instructional time, asks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      }
+    ]
+  }
+}

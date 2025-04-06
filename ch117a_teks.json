@@ -1,0 +1,716 @@
+{
+  "Unknown": {
+    "ch117a": [
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound and reads, writes,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation using a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas within specified",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation using a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas within specified",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and others,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation using a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas within specified",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      }
+    ]
+  }
+}

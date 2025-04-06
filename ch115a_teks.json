@@ -1,0 +1,716 @@
+{
+  "Unknown": {
+    "ch115a": [
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the five strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Kindergarten-Grade 3, students gain an understanding of health information and skills through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the five strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Kindergarten-Grade 3, students gain an understanding of health information and skills through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the five strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Kindergarten-Grade 3, students gain an understanding of health information and skills through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the five strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Kindergarten-Grade 3, students gain an understanding of health information and skills through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--short- and long-term impacts. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the six strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Grade 4 and higher, students gain an understanding of health information and skills through six",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "An integral part of health education involves educators being aware of state laws relevant to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Educators also should be aware of and abide by the statutory prohibition on taxpayer resource",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--physical activity. The student identifies, analyzes, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--short- and long-term impacts. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "Reproductive and sexual health--anatomy, puberty, and reproduction. The student identifies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the six strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Grade 4 and higher, students gain an understanding of health information and skills through six",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "An integral part of health education involves educators being aware of state laws relevant to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Educators also should be aware of and abide by the statutory prohibition on taxpayer resource",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health literacy,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--risk and protective factors. The student recognizes the influence of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--physical activity. The student identifies, analyzes, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student analyzes and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--short- and long-term impacts. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "Reproductive and sexual health--healthy relationships. The student understands the characteristics",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "Reproductive and sexual health--personal safety, limits, and boundaries. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "Reproductive and sexual health--anatomy, puberty, reproduction, and pregnancy. The student",
+        "Expectations": []
+      }
+    ]
+  }
+}

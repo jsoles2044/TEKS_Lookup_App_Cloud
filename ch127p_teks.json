@@ -1,0 +1,611 @@
+{
+  "Unknown": {
+    "ch127p": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Transportation, Distribution, and Logistics Career Cluster focuses on planning, management,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Introduction to Aircraft Technology is designed to teach the theory of operation of aircraft",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates academic skills to the requirements of aircraft maintenance and repair. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates an awareness of aviation history. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Transportation, Distribution, and Logistics Career Cluster focuses on planning, management,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Aircraft Airframe Technology is designed to teach the theory of operation of aircraft airframes",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The FAA uses standard terms with specific expectations for performance. The terms are defined",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "When a student performs an action, such as checking, inspecting, overhauling, repairing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards, interpersonal communication, and employability",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates academic skills to the requirements of metallic structures. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student relates academic skills to the requirements of non-metallic structures. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student understands the academic knowledge and skills for flight controls. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands the academic knowledge and skills for airframe inspection. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student understands the academic knowledge and skills for landing gear. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student understands the academic knowledge and skills for hydraulic and pneumatic systems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student understands the academic knowledge and skills for environmental systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student understands the academic knowledge and skills for aircraft instrument systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student understands the academic knowledge and skills for aircraft communication and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student understands the academic knowledge and skills for aircraft fuel systems. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student understands the academic knowledge and skills for aircraft electrical systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.24",
+        "Strand": "The student understands the academic knowledge and skills for ice and rain control systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.25",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.26",
+        "Strand": "The student understands the academic knowledge and skills for airframe fire protection systems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.27",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.28",
+        "Strand": "The student understands the academic knowledge and skills for rotorcraft fundamentals. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.29",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.30",
+        "Strand": "The student understands the academic knowledge and skills for water and waste systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.31",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Transportation, Distribution, and Logistics Career Cluster focuses on planning, management,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Aircraft Powerplant Technology is designed to teach the theory of operation of aircraft",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The FAA uses standard terms with specific expectations for performance. The terms are defined",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "When a student performs an action, such as checking, inspecting, overhauling, repairing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates academic skills to the requirements of reciprocating engines. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student relates academic skills to the requirements of turbine engines. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student relates academic skills to the requirements of engine inspection. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student relates academic skills to the requirements of engine instrument systems. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student relates academic skills to the requirements of engine fire protection systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student relates academic skills to the requirements of engine electrical systems. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student relates academic skills to the requirements of engine lubrication systems. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student relates academic skills to the requirements of ignition and starting systems. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student relates academic skills to the requirements of engine fuel and fuel metering systems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student relates academic skills to the requirements of reciprocating engine induction and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student relates academic skills to the requirements of turbine engine air systems. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.24",
+        "Strand": "The student relates academic skills to the requirements of engine exhaust and reverser systems.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.25",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.26",
+        "Strand": "The student relates academic skills to the requirements of propellers. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.27",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Transportation, Distribution, and Logistics Career Cluster focuses on planning, management,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Aircraft Maintenance Technology is designed to teach the theory of operation, general",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The FAA uses standard terms with specific expectations for performance. The terms are defined",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "When a student performs an action, such as checking, inspecting, overhauling, repairing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards, interpersonal communication, and employability",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates academic skills to the requirements of human factors. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student relates academic skills to the requirements of aviation mathematics. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student relates academic skills to the requirements of fundamentals of electricity and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student relates academic skills to the requirements of physics for aviation. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student relates academic skills to the requirements of weight and balance. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student relates academic skills to the requirements of aircraft drawings. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student relates academic skills to the requirements of regulations, forms, and publications.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student relates academic skills to the requirements of fluid lines and fittings. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student relates academic skills to the requirements of aircraft materials, hardware, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student relates academic skills to the requirements of ground operations and servicing. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student relates academic skills to the requirements of cleaning and corrosion control. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student uses regulatory and industry standards and demonstrates technical knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Transportation, Distribution, and Logistics Career Cluster focuses on planning, management,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Advanced Transportation Systems Laboratory provides the opportunity to extend knowledge of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates an understanding of the technical knowledge and skills that form the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student develops an elevated aptitude for the essential knowledge and skills listed for the",
+        "Expectations": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "Unknown": {
+    "ch130j": [
+      {
+        "Code": "8.1",
+        "Strand": "Career technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Human Services is a laboratory course that will enable students to investigate careers",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates personal characteristics for success in high-skill, high-wage, or high-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in early",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student demonstrates the skills necessary to enhance personal and career effectiveness in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Dollars and Sense focuses on consumer practices and responsibilities, money-management",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates management of individual and family resources such as finances, food,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates management of financial resources to meet the goals of individuals and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates effective consumer skills related to housing needs. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes the relationship of the environment to family and consumer resources. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes relationships between the economic system and consumer actions. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student identifies skills and attributes necessary for sustaining a chosen lifestyle. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student integrates knowledge, skills, and practices required for careers in consumer services.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Lifetime Nutrition and Wellness is a laboratory course that allows students to use principles of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands the role of nutrients in the body. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands the principles of digestion and metabolism. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates knowledge of nutritionally balanced diets. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands safety and sanitation. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student demonstrates knowledge of food-management principles. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student demonstrates effective work habits. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student investigates careers in nutrition. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Interpersonal Studies examines how the relationships between individuals and among family",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student evaluates factors related to personal development. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student determines short- and long-term implications of personal decisions. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes considerations related to the transition to independent adulthood. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes the family's role in relationship development. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes relationship development outside the family. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student determines factors related to marital success. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student determines methods that promote an effective family unit. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student determines how changes occurring throughout the family life cycle impact individuals",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student analyzes types of needs and crises experienced by individuals and families. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student determines stress-management techniques effective for individuals and families. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student determines opportunities and preparation requirements for his or her chosen careers.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student develops professional skills and behavior. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student analyzes management practices to help an individual assume multiple family,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Counseling and Mental Health, students model the knowledge and skills necessary to pursue a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards or employability skills as required by business",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies mathematics, science, English language arts, and social studies in human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates verbal and nonverbal communication skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student researches career options and the preparation necessary for employment in mental",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student models the ethical behavior standards and legal responsibilities related to mental",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student maintains a safe environment to prevent hazardous situations. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes the technology related to information services. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Family and Community Services is a laboratory-based course designed to involve students in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores careers in family and community services. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates organizational and leadership skills in a community service",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student develops and implements community and service-learning activities. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Human Services provides background knowledge and occupation-specific training",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Instruction may be delivered through school-based laboratory training or through work-based",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes career paths within the human services industries. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses oral and written communication skills and solves problems using critical-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses business tools or procedures to create human services information and facilitate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student identifies how organizational systems affect performance and the quality of products",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student determines a healthy environment that inspires client confidence in services provided.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses leadership and teamwork skills in collaborating with others. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student describes and observes ethical and legal responsibilities associated with providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student selects and uses appropriate business procedures and equipment to produce satisfying",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Principles of Cosmetology Design and Color Theory, students coordinate integration of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the field of cosmetology design and color theory. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates knowledge of the rules and regulations established by the TDLR. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates proficiency in the use of tools, equipment, technologies, and materials",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the academic knowledge and practical skills to simulated and actual work",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes career paths within the cosmetology industry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Introduction to Cosmetology, students explore careers in the cosmetology industry. To prepare",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the field of cosmetology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates knowledge of rules and regulations established by the Texas Department",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student identifies and describes the function of tools, equipment, and technologies used in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student develops professional skills needed to make appropriate career plans. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Cosmetology I, students coordinate integration of academic, career, and technical knowledge",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the field of cosmetology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates knowledge of rules and regulations established by the TDLR. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates an understanding in the use of tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the academic knowledge and practical skills to simulated and actual work",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Cosmetology II, students will demonstrate proficiency in academic, technical, and practical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the field of cosmetology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates knowledge of rules and regulations established by the TDLR. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates proficiency in the use of tools, equipment, technologies, and materials",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the academic knowledge and practical skills to simulated and actual work",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes career paths within the cosmetology industry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Human Services provides background knowledge and occupation-specific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Instruction may be delivered through school-based laboratory training or through work-based",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to employ",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety techniques in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in human services. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised human services experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Cosmetology I Lab provides instruction and content directly aligned to the licensure requirements",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Careers in cosmetology include all aspects of sterilization and sanitation procedures and personal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates knowledge of rules and regulations related to sanitation, disinfection,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates knowledge of appropriate use of tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies the practical management skills in simulated and actual work situations. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates proficiency in executing basic cosmetology services as required for the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Human Services Career Cluster focuses on preparing individuals for employment in career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Cosmetology II Lab provides instruction and content directly aligned to the licensure requirements",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates knowledge of rules and regulations related to sanitation, disinfection,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The students demonstrates mastery in the use of tools, equipment, technologies, and materials",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student executes proficient managerial and practical skills in diverse work and professional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student performs cosmetology services with increased fluency as required for the state",
+        "Expectations": []
+      }
+    ]
+  }
+}
