@@ -1,0 +1,931 @@
+{
+  "Unknown": {
+    "ch130k": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Principles of Information Technology, students will develop computer literacy skills to adapt to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses evolving and emerging technologies to exchange information. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates knowledge of the hardware components associated with information",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates knowledge of the different software associated with information",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes network systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies word-processing technology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student applies spreadsheet technology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student explores computer programming concepts. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student explores database technology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student applies presentation management technology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student applies design and web publishing techniques. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student understands and demonstrates legal and ethical procedures as they apply to the use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Computer Maintenance, students will acquire knowledge of computer maintenance and creating",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies academic skills to the requirements of computer technologies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student acquires an understanding of computer hardware technologies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses hardware design, operation, and maintenance knowledge and skills to identify",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student acquires knowledge of operating system design, including operation and maintenance.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student acquires knowledge of the theory behind the installation, configuration of software",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student acquires knowledge of the installation and configuration of network connections. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Computer Maintenance Lab, students will acquire knowledge of computer maintenance and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the requirements of computer technologies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates the proper function and application of the tools, equipment, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies the concepts and skills of the trade in simulated work situations. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses hardware design, operation, and maintenance knowledge and skills to identify",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student uses troubleshooting skills to solve client problems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student installs and configures software programs and updates IT systems. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student installs, configures, and verifies active network connection. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student provides support to computer users to maintain service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Networking, students will develop knowledge of the concepts and skills related to data",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates the professional standards/employability skills as required by business",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student relates core academic skills to the requirements of telecommunications and data",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student acquires an understanding of telecommunications and data network services. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes various types of configurations and upgrading. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student recognizes and recommends the various types of network components to address",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student develops a network design plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student provides support to computer users to maintain service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Networking Lab, students will develop knowledge of the concepts and skills related to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies related core academic skills to the requirements of telecommunications and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student recognizes and recommends the various types of network components to address",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student develops a network design plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student implements a data network plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student implements network security systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student provides support to computer users to maintain service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Digital Media, students will analyze and assess current and emerging technologies, while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies employment opportunities in the IT field with a focus in the area of digital",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses emerging technologies to exchange and gather information and resources. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student complies with standard practices and behaviors that meet legal and ethical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes and applies design and layout principles in digital media. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student designs and creates digital graphics. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student demonstrates appropriate use of digital photography equipment and techniques. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates appropriate use of video equipment and techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student demonstrates appropriate use of audio equipment and techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student demonstrates appropriate use of animation. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student demonstrates appropriate project management in the creation of digital media",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student deploys digital media into print, web-based, and video products. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In the Computer Technician Practicum, students will gain knowledge and skills in the area of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student relates core academic skills to the requirements of computer technologies. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies communication, mathematics, English, and science knowledge and skills to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student knows the concepts and skills that form the basis of computer technologies. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student knows the proper function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies the essential knowledge and skills for computer technologies to career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student employs project management knowledge to oversee IT projects. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student recognizes and analyzes potential IT security threats to develop and maintain security",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student provides support to computer users to maintain service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student demonstrates and applies knowledge of security risks and safeguards. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student provides support to computer users to maintain service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student creates a personal portfolio. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In the Practicum in Information Technology, students will gain advanced knowledge and skills in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies various employment opportunities in the IT field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies academic knowledge and skills to research and develop projects. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student selects an approach for conducting research to discover a problem in the field of IT",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student creates a technological solution for a problem in the field of IT. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student designs, creates, and implements a product or service that addresses a problem in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student creates a personal portfolio. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In the Extended Computer Technician Practicum, students will gain knowledge and skills in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to employ",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety and security techniques in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in IT. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised IT experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Extended Practicum in Information Technology, students will gain advanced knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety and security techniques in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in IT. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised IT experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Web Communications, students will acquire knowledge of web communications and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Creativity and innovation. The student demonstrates creative thinking, constructs knowledge, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Communication and collaboration. The student uses digital technology to work collaboratively",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Research and information fluency. The student applies digital tools to gather, evaluate, and use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical thinking, problem solving, and decision making. The student uses critical-thinking skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Digital citizenship. The student understands human, cultural, and societal issues related to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Technology operations and concepts. The student demonstrates a sound understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Web Design students will acquire knowledge of web design and technological operations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Creativity and innovation. The student demonstrates creative thinking, constructs knowledge, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Communication and collaboration. The student uses digital media and environments to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Research and information fluency. The student applies digital tools to gather, evaluate, and use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical thinking, problem solving, and decision making. The student uses critical-thinking skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Digital citizenship. The student understands human, cultural, and societal issues related to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Technology operations and concepts. The student demonstrates a sound understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Independent Study in Technology Applications, through the study of technology applications",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Creativity and innovation. The student demonstrates creative thinking, constructs knowledge, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Communication and collaboration. The student uses digital media and environments to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Research and information fluency. The student applies digital tools to gather, evaluate, and use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical thinking, problem solving, and decision making. The student uses critical-thinking skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Digital citizenship. The student understands human, cultural, and societal issues related to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Technology operations and concepts. The student demonstrates a sound understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Information Technology (IT) Career Cluster focuses on building linkages in IT occupations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In the Independent Study in Evolving/Emerging Technologies course, through the study of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Creativity and innovation. The student demonstrates creative thinking, constructs knowledge, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Communication and collaboration. The student uses digital media and environments to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Research and information fluency. The student applies digital tools to gather, evaluate, and use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical thinking, problem solving, and decision making. The student uses critical-thinking skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Digital citizenship. The student understands human, cultural, and societal issues related to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Technology operations and concepts. The student demonstrates a sound understanding of",
+        "Expectations": []
+      }
+    ]
+  }
+}

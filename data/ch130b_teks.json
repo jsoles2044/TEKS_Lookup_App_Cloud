@@ -1,0 +1,2756 @@
+{
+  "Unknown": {
+    "ch130b": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Architecture provides an overview to the various fields of architecture, interior",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student performs mathematical operations to complete tasks such as measuring and estimating",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses physics skills to work with materials and load applications. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student manages chemical materials safely. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student reads, comprehends, and communicates effectively in the workplace, using proper",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student listens attentively and speaks clearly to convey information correctly. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student listens to and speaks clearly with a variety of individuals to enhance communications",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student exhibits public relations skills to address a variety of situations such as increasing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student identifies the relationship between available resources and requirements of a project to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student evaluates and adjusts plans and schedules to respond to unexpected events and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student synthesizes and reports conditions to keep the organization appraised of progress and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student uses technological applications specific to architecture and construction to access,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student uses electronic devices to communicate. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student uses writing and publishing applications. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student uses spreadsheet applications. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student uses database applications. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student uses collaborative applications. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student complies with governmental regulations and applicable codes to establish a legal and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student examines all aspects of the built environment and systems to complete project",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student applies industry standards and practices to ensure quality work. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student observes rules and regulations to comply with personal and occupational health and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student works as an individual and as a team member to accomplish assignments. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student exhibits personal accountability, integrity, and responsibility to enhance confidence",
+        "Expectations": []
+      },
+      {
+        "Code": "8.24",
+        "Strand": "The student reads regulations and contracts to ensure ethical and safety elements are observed.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.25",
+        "Strand": "The student recognizes a positive work ethic to comply with employment requirements. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.26",
+        "Strand": "The student recognizes requirements for career advancement to plan for continuing education and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.27",
+        "Strand": "The student examines the organization and structure of various segments of the industry to prepare",
+        "Expectations": []
+      },
+      {
+        "Code": "8.28",
+        "Strand": "The student initiates and maintains a career portfolio to document knowledge, skills, and abilities.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.29",
+        "Strand": "The student reads technical drawings and documents to plan a project. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.30",
+        "Strand": "The student uses and maintains appropriate tools, machines, and equipment to accomplish project",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Construction is intended to provide an introduction and lay a solid foundation for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands that safe working standards are imperative in the classroom and in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands the importance of recognizing potential hazards and preventing accidents",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands basic construction mathematics. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates basic measuring practices. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student acquires knowledge about care and identification of hand tools. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student acquires knowledge about care and identification of powered hand tools. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student develops the basics of construction drawing. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student interprets and presents information used in workplace situations. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student identifies ergonomic tools and procedures as well as safe material handling standards.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Building Maintenance Technology I, students will gain knowledge and skills needed to enter",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates knowledge of basic worksite safety regulations and safety guidelines",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student interprets various types of working drawings as they pertain to commercial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates how to use hand tools that are commonly used in the worksite such as",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates how to use power tools that are commonly used in the worksite such as",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student demonstrates how to use the latest technologies such as computer numeric control",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student selects and installs various types of insulation in walls, floors, and attics and becomes",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student installs various exterior siding materials, including wood, metal, vinyl, and cement",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student gains knowledge of the types and grades of framing materials and the process for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student knows various types of gypsum drywall and their uses and the fastening devices and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student knows the materials, tools, and methods used to finish and patch gypsum drywall. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student installs metal doors and related hardware in steel-framed, wood-framed, and masonry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student gains knowledge of the materials, layouts, and installations of various types of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student knows the various types of trim used in finish work and the proper methods for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student selects and installs base and wall cabinets and countertops. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student selects and installs various types of floor coverings, including carpet, vinyl tile,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Building Maintenance Technology II, students will continue to gain advanced knowledge and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates knowledge of basic worksite safety regulations and safety guidelines.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows how to interpret blueprint drawings, various symbols, schematics, one-line",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student knows how to handle fuses and circuit breakers. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student installs various types of lamps and fixtures. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student knows various methods to properly select, inspect, use, and maintain common",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student installs and maintains electrical devices and demonstrates wiring techniques common",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student is introduced to the basic principles of HVAC systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student installs, selects, prepares, joins, and supports copper and plastic pipes and fittings. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student operates, tests, and adjusts conventional and electronic thermostats as well as the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student knows the concepts of historic preservation and local and national resources to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Construction Management I, students will gain knowledge and skills needed to enter the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies academic skills to the requirements of construction management. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student gains knowledge about building materials used in the construction industry, including",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes how a systems model can be used to describe construction activities,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student selects and uses the proper construction technology to meet practical objectives. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student designs an item for construction using appropriate design processes and techniques.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student investigates emerging and innovative construction technologies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student describes quality and how it is measured in construction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student builds buildings or structures using the appropriate tools, equipment, machines,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student works safely with construction tools, equipment, machines, and materials. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student describes the importance of maintenance in construction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student manages a construction project. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student applies the appropriate codes, laws, standards, or regulations related to construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student describes the intended and unintended effects of technological solutions. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student identifies the factors that influence the evolution of construction technology. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student solves problems, thinks critically, and makes decisions related to construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student identifies the factors that influence the cost of goods and services in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student knows the concepts and skills that form the technical knowledge of building",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student applies the concepts and skills of the construction industry to simulated or actual work",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student knows the proper and safe use of hand and power tools. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student learns how to interpret architectural and engineering working drawings and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student gains knowledge about the basics of wood framing, including layout and construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.24",
+        "Strand": "The student understands how to lay out and frame walls and ceilings, rough-in door and window",
+        "Expectations": []
+      },
+      {
+        "Code": "8.25",
+        "Strand": "The student investigates various types of framed roofs. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.26",
+        "Strand": "The student describes various types of windows, skylights, and exterior doors. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.27",
+        "Strand": "The student describes various types of stairs and the common building code requirements related",
+        "Expectations": []
+      },
+      {
+        "Code": "8.28",
+        "Strand": "The student describes basic product marketing processes and techniques used in construction. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.29",
+        "Strand": "The student investigates career opportunities, requirements, and expectations in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.30",
+        "Strand": "The student describes the importance of teamwork, leadership, integrity, honesty, work habits, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Construction Management II, students will gain knowledge and skills needed to enter the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student designs or modifies a structure using designated design processes and techniques. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student investigates emerging construction technologies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes quality and how it is measured in construction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student constructs buildings or scaled models using the appropriate tools, equipment,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student works safely with construction technology. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student performs basic maintenance on selected construction equipment and machines. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student manages construction technology projects. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student follows the appropriate codes, laws, standards, or regulations related to architectural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student solves problems, thinks critically, and makes decisions related to architectural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student determines the cost of constructing a building. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student applies communication, mathematical, and scientific knowledge and skills to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student describes the importance of teamwork, leadership, integrity, honesty, work habits, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student gains knowledge about the ingredients of concrete, various types of concrete, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student uses a systems approach to investigate mechanical, fluid, electrical, and thermal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student works safely with mechanical, fluid, electrical, and thermal technology. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student solves problems, thinks critically, and makes decisions related to construction. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student applies communication, science, and mathematics knowledge and skills to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student knows the laws governing motion. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student knows the concept of momentum. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student knows the concept of waves and vibrations. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student knows the concept of energy conversion. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student knows the concept of energy transduction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.24",
+        "Strand": "The student knows the concept of radiant energy. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.25",
+        "Strand": "The student knows the concept of light and optics. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.26",
+        "Strand": "The student knows the concept of time constants. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.27",
+        "Strand": "The student describes basic product marketing processes and techniques used in construction. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.28",
+        "Strand": "The student investigates career opportunities, requirements, and expectations in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.29",
+        "Strand": "The student describes the importance of teamwork, leadership, integrity, honesty, work habits, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Construction Technology I, students will gain knowledge and skills needed to enter the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands that safe working standards are imperative in the classroom and in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student identifies various opportunities in the field of carpentry and the characteristics a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student gains knowledge about building materials used in the construction industry. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the proper and safe use of hand and power tools associated with carpentry.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student interprets architectural and engineering working drawings and specifications. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student gains knowledge of wood framing and the layout and construction of wood-framed",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student knows how to lay out and frame walls and ceilings, rough-in door and window",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student gains knowledge of various types of framed roofs and how to frame these roofs using",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student knows the ingredients of concrete, various types of concrete, and methods to mix",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student gains knowledge of various types of windows, skylights, and exterior doors. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student is introduced to various types of stairs and the common building code requirements",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Construction Technology II, students will gain advanced knowledge and skills needed to enter",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student is provided with the knowledge to interpret various types of working drawings as they",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student selects and installs common roofing materials for residential and light commercial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student selects and installs various types of insulation in walls, floors, and attics. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student learns the processes to install various exterior siding materials. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student knows the types and grades of steel framing materials and the process for installing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student knows various types of gypsum drywall and their uses and the fastening devices and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student knows the materials, tools, and methods used to finish and patch gypsum drywall. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student installs metal doors and related hardware in steel-framed, wood-framed, and masonry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student gains knowledge of the materials, layout, and installation of various types of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student knows the types of trim used in finish work. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student selects and installs base and wall cabinets and countertops. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Mill and Cabinetmaking Technology, students will gain knowledge and skills needed to enter",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates core academic skills to the requirements of mill and cabinetmaking. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows the concepts and skills that form the core knowledge of mill and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the concepts and skills of mill and cabinetmaking to simulated and actual",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Masonry Technology I provides information and techniques related to basic masonry and safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student describes materials and techniques used in basic masonry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student identifies safe practices and expectations for the masonry industry. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates awareness of safe practices and expectations for the masonry industry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the importance of being trained in and aware of safe practices and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explains safe practices and expectations for the masonry industry. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student identifies masonry hand tools. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands the importance of measurements and measuring tools used in masonry.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Masonry Technology II is designed to further enhance the skills and knowledge of the beginning",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student recognizes mathematical concepts used in masonry and is able to apply mathematical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student learns to describe the ingredients and types of mortar. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes how to install concrete masonry units. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Architectural Design I, students will gain knowledge and skills needed to enter a career in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies key cognitive skills and academic behaviors to the requirements of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows the concepts and skills that form the technical knowledge of architectural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the concepts and skills of the profession to simulated or actual work situations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student begins exploration, development, and organization of ideas from the surroundings.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student begins expressing ideas through original architectural projects using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates an understanding of architectural history and culture as records of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student makes beginning informed judgments about personal architectural projects and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student makes informed career decisions that reflect career goals. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student applies communication, science, and mathematics knowledge and skills to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student knows the concept of sustainability. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Architectural Design II, students will gain advanced knowledge and skills needed to enter a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates core academic skills to the requirements of architecture. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows the concepts and skills that form the technical knowledge of architectural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the concepts and skills of the trade to simulated and actual work situations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies the concepts and skills of the trade to simulated and actual work situations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student describes the importance of teamwork, leadership, integrity, honesty, work habits, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student sustains exploration, development, and organization of ideas from their surroundings.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses advanced skills expressing ideas through original architectural projects using a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student demonstrates an understanding of architectural history and culture as records of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student makes advanced, informed judgments about personal architectural projects and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student exhibits employability skills that lead to job success in the architectural design",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Interior Design I is a technical course that addresses psychological, physiological, and sociological",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates effective decision-making skills related to housing needs throughout the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates effective management practices related to the housing budget. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student recommends practices that will create a safe, secure, and well-maintained home. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student proposes methods to create quality living environments. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student considers factors affecting housing construction when making plans and consumer",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student evaluates factors influencing the housing industry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student assesses environmental issues affecting housing. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses effective design practices to evaluate residential and nonresidential interiors. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student determines appropriate lighting for residential and nonresidential interiors. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student chooses appropriate background materials to complement various residential and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student demonstrates effective decision-making skills in applying principles of design and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student evaluates the role of furniture in interior design for residential and nonresidential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student determines the role of appliances in interior design for residential and nonresidential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student evaluates the role of accessories in interior design for residential and nonresidential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student applies the concepts and skills of the industry to simulated work situations. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student creates a professional portfolio featuring original projects using a variety of media.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student maintains a professional portfolio to document knowledge, skills, and abilities. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student applies the concepts and skills of the profession to simulated or actual work situations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Interior Design II is a technical laboratory course that includes the application of the employability",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student knows the employability characteristics of a successful worker in the modern",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies core academic skills to the requirements of architectural interior design. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student knows the concepts and skills that form the core knowledge of architectural interior",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies the concepts and skills of interior design to simulated and actual work",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses valid and reliable research strategies to determine current industry standards. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands the concepts and skills that form the core knowledge of furniture repair",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student applies the concepts and skills of furniture repair and upholstery to simulated and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Electrical Technology I, students will gain knowledge and skills needed to enter the workforce",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies the issues associated with electrical hazards found on a jobsite. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student learns conduit bending and installation. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student gains knowledge of the hardware and systems used by an electrician to mount and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student learns the electrical concepts used in Ohm's law applied to direct current and series",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student gains knowledge in selecting, using, and safely maintaining common electrical test",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses the National Electrical Code. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student learns the types and applications of raceways, wireways, and ducts. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student learns the types and applications of conductors and wiring techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student learns electrical symbols and their use in design drawings. Additionally, students learn",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student learns the electrical devices and wiring techniques used in commercial and industrial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student learns the electrical devices and wiring techniques used in residential construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Electrical Technology II, students will gain advanced knowledge and skills needed to enter the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student knows the issues associated with electrical hazards found on a jobsite. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student gains knowledge of alternating current and direct current motors with specific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student learns the purpose for grounding and bonding electrical systems. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student properly bends all sizes of conduit up to six inches. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student learns to select and size outlet boxes, pull boxes, and junction boxes. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student knows transportation, storage, and setup of cable reels, methods of rigging, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student installs cable trays and modifies cable trays and cable. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student knows the methods of terminating and splicing conductors of all types and sizes and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student installs single- and three-phase services, including metering equipment. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student knows the practical application of fuses and circuit breakers. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student knows the practical applications of contactors and relays. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student learns the basic principles of human vision and the characteristics of light. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Heating, Ventilation, and Air Conditioning (HVAC) and Refrigeration Technology I, students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student learns the basic principles of HVAC and refrigeration. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies knowledge and skills in mathematics as they relate to HVAC and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student selects, prepares, connects, and installs copper and plastic piping and fittings. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student cuts, threads, and joins ferrous piping. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student knows electrical principles, power generation and distribution, electrical components,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student learns the principles of heat transfer, refrigeration, pressure temperature relationships,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student learns heating fundamentals, types and designs of furnaces and their components, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student gains knowledge and skills related to air distribution systems. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Heating, Ventilation, and Air Conditioning (HVAC) and Refrigeration Technology II, students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student learns the principles of commercial air systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows the principles of venting fossil-fuel furnaces and the proper methods for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student gains knowledge of hot water heating systems, focusing on safe operation of the low-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student learns the basic principles, processes, and devices used to control humidity and air",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student gains the knowledge and skills in the handling of refrigerant and equipment servicing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student gains knowledge of transformers, single-phase and three-phase power distribution,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student learns the theory of solid-state electronics as well as the operation, use, and testing of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student learns the operation, testing, and adjustment of conventional and electronic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student learns the tools, instruments, and techniques used in troubleshooting gas heating",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student learns the techniques and equipment used in troubleshooting cooling equipment and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student learns the principles of reverse-cycle heating, the operation of various types of heat",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student selects the application and installation of various types of fasteners, gaskets, seals, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student demonstrates how to lay out, fabricate, install, and join sheet metal ductwork. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student gains the knowledge and skills to lay out, fabricate, install, join, attach, and support",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Plumbing Technology I, students will gain knowledge and skills needed to enter the industry as",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student is expected to demonstrate professional standards/employability skills as required by",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands the causes of accidents and their consequences and repercussions in terms",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands and demonstrates what employer and customer expectations are and is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and demonstrates what green technology is and how it relates to the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student selects and safely uses different types of hand and power tools related to a specific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies mathematical concepts to whole numbers, fractions, decimals, and squared",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student learns the various types of drawings used in the plumbing industry to lay out and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student learns the types and schedules of plastic pipe and fittings used in plumbing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student understands the applications of copper pipe and fittings, the types of valves that can",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student measures, cuts, threads, reams, joins, and hangs carbon steel pipe and becomes",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student gains knowledge and skills to connect and install corrugated stainless steel tubing in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student understands the way drain, waste, and vent systems remove waste safely. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student identifies major components of a municipal water system and how water is distributed",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student identifies and draws hot and cold water lines on a floor plan using an isometric",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student describes and demonstrates the different types of valves and their uses. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Plumbing Technology II, students will gain the advanced knowledge and skills needed to enter",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies and demonstrates the use of hand and power tools such as pipe wrenches;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands different types of drill bits used in the plumbing profession. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies algebra and geometry to solve plumbing-related problems. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student reviews employer and customer expectations. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student understands and applies electrical testing equipment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student understands and applies how to install plumbing fixtures according to plumbing code.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student learns plot plans, structural design, shop drawings, elevation drawings, as-built",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student installs, stores, and handles various types of valves. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student understands and applies how to braze weld and cut with oxy-fuel torch. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands and applies how to size, install, and test a residential water piping system",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student understands what cross connections are and their degree of hazard and how to protect",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student understands and applies how to size, install, and test a natural gas system according to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student understands how to size, install, and test a drain waste and vent (DWV) system",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student understands different types of water heaters, water heaters parts, and their proper",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Construction Management is an occupationally specific course designed to provide",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student develops a management plan for a project or an activity. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies the appropriate codes, laws, standards, or regulations related to a research and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes the intended and unintended effects of construction management solutions.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student solves problems, thinks critically, and makes decisions related to research, design, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the costs associated with research and development activities. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies knowledge and skills in communication, mathematics, and science to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student predicts the marketability of a project, product, or service. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses advanced tools, materials, processes, and procedures in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student designs a project using appropriate design processes and techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student predicts the impacts of emerging applications of construction technology. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student improves the quality of a product or service using different quality-control techniques.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student recommends new ways to build products using different tools, equipment, machines,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student proposes safety devices required to complete different tasks. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student performs advanced equipment maintenance. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student suggests how the cost of a project, product, or service can be reduced. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student applies knowledge and skills in mathematics, science, English language arts, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student determines employment opportunities and preparation requirements for careers in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student demonstrates ethical and legal practices for careers in construction management. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student selects the appropriate technological resources to conduct research, design, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student designs or improves a product using appropriate design processes and techniques. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Practicum in Construction Technology, students will be challenged with the application of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student develops a management plan for a project or an activity. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies the appropriate codes, laws, standards, or regulations related to a research and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes the expectations for each project using a flowchart. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student solves problems, thinks critically, and makes decisions related to research, design, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the costs associated with the project. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies communication, mathematics, and science knowledge and skills to the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student uses advanced tools, materials, processes, and procedures in the construction project.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Masonry Technology is an occupationally specific course designed to provide",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates trowel proficiency. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student constructs single wythe brick walls with level. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student constructs a brick wall demonstrating different brick positions in a wall. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student builds a brick column. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student lays CMU. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student builds a block CMU column. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student constructs a composite masonry wall of brick and block. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student installs coping on a masonry wall. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student constructs a natural stone wall. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student installs manufactured stone. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student lays brick to a line. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student lays CMU to a line. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Architectural Design is an occupationally specific course designed to provide",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student relates communication, mathematics, and science to the requirements of the student's",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student knows the function and application of the tools, equipment, technologies, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student selects and uses multimedia communication and rendering technology to meet specific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student designs multimedia communication and rendering products using appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student produces multimedia communication and rendering products using the appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student follows appropriate codes, laws, standards, or regulations. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates the ability to solve problems, think critically, and make decisions. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student applies communication, mathematics, and science knowledge and skills to job-related",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student determines employment opportunities and preparation requirements for careers in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student demonstrates ethical and legal practices for careers in the architectural-related",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Interior Design is an occupationally specific course designed to provide job-specific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student determines the use of elements and principles of design in residential and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes the workmanship, characteristics, use, and care of materials used in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student determines treatments and accessories suitable for residential and nonresidential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student assesses factors influencing the selection of furniture and equipment for residential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies safety and sanitation practices. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student determines appropriate use and care of tools and equipment used in construction of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates skills in selected product design and construction. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student identifies types of business promotion practices and their benefit to the housing and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student evaluates customer relations as a tool for successful business operations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student exhibits employability skills that lead to job success in the housing, furnishings, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student determines employment opportunities and preparation requirements for careers in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student demonstrates ethical and legal practices for careers in the housing, furnishings, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Construction Management is an occupationally specific course designed to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student implements advanced professional communications strategies. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety techniques in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a construction management experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Extended Practicum in Construction Technology, students will be challenged with the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student implements advanced professional communications strategies. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety techniques in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in construction",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a construction technology experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Masonry Technology is an occupationally specific course designed to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student implements advanced professional communications strategies. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety techniques in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in masonry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a masonry technology experience. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Architectural Design is an occupationally specific course designed to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety and security techniques in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in architectural design.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised architectural design experience. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Architecture and Construction Career Cluster focuses on designing, planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Interior Design is an occupationally specific course designed to provide",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety and security techniques in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in interior design. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised interior design experience. The student is expected to:",
+        "Expectations": []
+      }
+    ]
+  }
+}
