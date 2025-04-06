@@ -1,0 +1,886 @@
+{
+  "Unknown": {
+    "grade4-teks-062024": [
+      {
+        "Code": "8.1",
+        "Strand": "The English language arts and reading Texas Essential Knowledge and Skills (TEKS) embody the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The seven strands of the essential knowledge and skills for English language arts and reading are",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Text complexity increases with challenging vocabulary, sophisticated sentence structures,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "English language learners (ELLs) are expected to meet standards in a second language; however,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Current research stresses the importance of effectively integrating second language acquisition",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Oral language proficiency holds a pivotal role in school success; verbal engagement must be",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Developing and sustaining foundational language skills: listening, speaking, discussion, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Developing and sustaining foundational language skills: listening, speaking, reading, writing, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Developing and sustaining foundational language skills: listening, speaking, reading, writing, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Developing and sustaining foundational language skills: listening, speaking, reading, writing, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Developing and sustaining foundational language skills: listening, speaking, reading, writing, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Comprehension skills: listening, speaking, reading, writing, and thinking using multiple texts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Response skills: listening, speaking, reading, writing, and thinking using multiple texts. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Multiple genres: listening, speaking, reading, writing, and thinking using multiple texts--literary",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Multiple genres: listening, speaking, reading, writing, and thinking using multiple texts--genres.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Author's purpose and craft: listening, speaking, reading, writing, and thinking using multiple",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Composition: listening, speaking, reading, writing, and thinking using multiple texts--writing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Composition: listening, speaking, reading, writing, and thinking using multiple texts--genres. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Inquiry and research: listening, speaking, reading, writing, and thinking using multiple texts. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The desire to achieve educational excellence is the driving force behind the Texas essential",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The process standards describe ways in which students are expected to engage in the content. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "For students to become fluent in mathematics, students must develop a robust sense of number.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The primary focal areas in Grade 4 are use of operations, fractions, and decimals and describing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Mathematical process standards. The student uses mathematical processes to acquire and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Number and operations. The student applies mathematical process standards to represent,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Number and operations. The student applies mathematical process standards to represent and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Number and operations. The student applies mathematical process standards to develop and use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Algebraic reasoning. The student applies mathematical process standards to develop concepts of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Geometry and measurement. The student applies mathematical process standards to analyze",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Geometry and measurement. The student applies mathematical process standards to solve",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Geometry and measurement. The student applies mathematical process standards to select",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Data analysis. The student applies mathematical process standards to solve problems by",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Personal financial literacy. The student applies mathematical process standards to manage one's",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "In Kindergarten through Grade 5 Science, content is organized into recurring strands. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Nature of science. Science, as defined by the National Academy of Sciences, is the \"use of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific observations, inferences, hypotheses, and theories. Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Science and social ethics. Scientific decision making is a way of answering questions about the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Recurring themes and concepts. Science consists of recurring themes and making connections",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Scientific and engineering practices. The student asks questions, identifies problems, and plans",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Scientific and engineering practices. The student analyzes and interprets data to derive meaning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Scientific and engineering practices. The student develops evidence-based explanations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Scientific and engineering practices. The student knows the contributions of scientists and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Recurring themes and concepts. The student understands that recurring themes and concepts",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Matter and energy. The student knows that matter has measurable physical properties that",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Force, motion, and energy. The student knows the nature of forces and the patterns of their",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Force, motion, and energy. The student knows that energy is everywhere and can be observed in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Earth and space. The student recognizes patterns among the Sun, Earth, and Moon system and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Earth and space. The student knows that there are processes on Earth that create patterns of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Earth and space. The student understands how natural resources are important and can be",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Organisms and environments. The student describes patterns, cycles, systems, and relationships",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Organisms and environments. The student knows that organisms undergo similar life processes",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "In Grade 4, students examine the history of Texas from the early beginnings to the present within",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "To support the teaching of the essential knowledge and skills, the use of a variety of rich primary",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The eight strands of the essential knowledge and skills for social studies are intended to be",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students identify the role of the U.S. free enterprise system within the parameters of this course",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Throughout social studies in Kindergarten-Grade 12, students build a foundation in history;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Students understand that a constitutional republic is a representative form of government whose",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "State and federal laws mandate a variety of celebrations and observances, including Celebrate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Students discuss how and whether the actions of U.S. citizens and the local, state, and federal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "History. The student understands the origins, similarities, and differences of American Indian",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "History. The student understands the causes and effects of European exploration and colonization",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "History. The student understands the importance of the Texas Revolution, the Republic of Texas,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "History. The student understands the political, economic, and social changes in Texas during the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "History. The student understands important issues, events, and individuals of the 20th century in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Geography. The student understands the concept of regions. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Geography. The student understands the location and patterns of settlement and the geographic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Geography. The student understands how people adapt to and modify their environment. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Economics. The student understands the basic economic activities of early societies in Texas. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Economics. The student understands the characteristics and benefits of the free enterprise system",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Economics. The student understands patterns of work and economic activities in Texas. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Government. The student understands how people organized governments in different ways",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Government. The student understands important ideas in historical documents of Texas and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Citizenship. The student understands important customs, symbols, and celebrations of Texas. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Citizenship. The student understands the importance of active individual participation in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Citizenship. The student understands the importance of effective leadership in a constitutional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Culture. The student understands the contributions of people of various racial, ethnic, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "Science, technology, and society. The student understands the impact of science and technology",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "Social studies skills. The student applies critical-thinking skills to organize and use information",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "Social studies skills. The student uses geographic tools to collect, analyze, and interpret data. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "Social studies skills. The student communicates in written, oral, and visual forms. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "Social studies skills. The student uses problem-solving and decision-making skills, working",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The goal of health education is to provide instruction that allows youth to develop and sustain",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "There are essential skills that repeat throughout the six strands and embody the interconnection of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Grade 4 and higher, students gain an understanding of health information and skills through six",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "An integral part of health education involves educators being aware of state laws relevant to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Educators also should be aware of and abide by the statutory prohibition on taxpayer resource",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Students should first seek guidance in the area of health from a parent or legal guardian.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical health and hygiene--body systems. The student examines the structure, function, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Physical health and hygiene--personal health and hygiene. The student understands health",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Mental health and wellness--social and emotional health. The student identifies and applies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Mental health and wellness--developing a healthy self-concept. The student develops the capacity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Mental health and wellness--identifying and managing mental health and wellness concerns. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Healthy eating and physical activity--food and beverage daily recommendations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Healthy eating and physical activity--physical activity. The student identifies, analyzes, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Healthy eating and physical activity--nutrition and physical activity literacy. The student obtains,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Healthy eating and physical activity--risk and protective factors. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Injury and violence prevention and safety--safety skills and unintentional injury. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Injury and violence prevention and safety--healthy relationships and conflict-resolution skills.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Injury and violence prevention and safety--healthy home, school, and community climate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Injury and violence prevention and safety--digital citizenship and media. The student understands",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Injury and violence prevention and safety--interpersonal violence. The student understands the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Alcohol, tobacco, and other drugs--use, misuse, and physiological effects. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Alcohol, tobacco, and other drugs--short- and long-term impacts. The student identifies and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "Alcohol, tobacco, and other drugs--treatment. The student understands how to seek emergency",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "Alcohol, tobacco, and other drugs--risk and protective factors. The student understands how",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "Alcohol, tobacco, and other drugs--prevention. The student demonstrates refusal skills to avoid",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "Reproductive and sexual health--anatomy, puberty, and reproduction. The student identifies",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical education is the foundation of a well-balanced curriculum. \"It is an academic subject",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The physical education standards are categorized into five strands that are of equal importance",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Quality physical education programs include a comprehensive curriculum, physical activity,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Access to age-appropriate physical education equipment is essential to quality instruction. Basic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "In Kindergarten-Grade 5, students learn fundamental movement skills and cues; begin to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Movement patterns and movement skills--locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Movement patterns and movement skills--non-locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Movement patterns and movement skills--manipulative skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Movement patterns and movement skills--spatial and body awareness. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Movement patterns and movement skills--rhythmic activities. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Performance strategies--games and activities. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Performance strategies--outdoor and recreational pursuits. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Health, physical activity, and fitness--fitness principles. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Health, physical activity, and fitness--analyze data. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Health, physical activity, and fitness--nutrition and hydration. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Health, physical activity, and fitness--environmental awareness and safety practices. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Social and emotional health--personal responsibility and self-management. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Social and emotional health--resolving conflict and social interaction. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Social and emotional health--perseverance. The physically literate student perseveres while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Social and emotional health--accepting and providing constructive feedback. The physically",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Lifetime wellness--application of lifetime wellness. The physically literate student identifies the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: observation and perception; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: observation and perception. The student develops and expands visual literacy skills",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression. The student communicates ideas through original artworks using a variety of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Historical and cultural relevance. The student demonstrates an understanding of art history and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Critical evaluation and response. The student responds to and analyzes artworks of self and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: music literacy; creative expression; historical and cultural",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: music literacy. The student describes and analyzes musical sound. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Foundations: music literacy. The student reads, writes, and reproduces music notation using a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression. The student performs a varied repertoire of developmentally appropriate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creative expression. The student creates and explores new musical ideas within specified",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Historical and cultural relevance. The student examines music in relation to history and cultures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Critical evaluation and response. The student listens to, responds to, and evaluates music and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The fine arts incorporate the study of dance, music, theatre, and the visual arts to offer unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Four basic strands--foundations: inquiry and understanding; creative expression; historical and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Foundations: inquiry and understanding. The student develops concepts about self, human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Creative expression: performance. The student interprets characters using the voice and body",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creative expression: production. The student applies design, directing, and theatre production",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Historical and cultural relevance. The student relates theatre to history, society, and culture. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Critical evaluation and response. The student responds to and evaluates theatre and theatrical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 1, 2024, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Technology includes data communication, data processing, and the devices used for these tasks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The technology applications Texas Essential Knowledge and Skills (TEKS) consist of five",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The technology applications TEKS can be integrated into all content areas and can support stand-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Statements containing the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Computational thinking--foundations. The student explores the core concepts of computational",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Computational thinking--applications. The student applies the fundamentals of computer science.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Creativity and innovation--innovative design process. The student takes an active role in learning",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Creativity and innovation--emerging technologies. The student demonstrates an understanding",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Data literacy, management, and representation--collect data. The student uses digital strategies to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Data literacy, management, and representation--organize, manage, and analyze data. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Data literacy, management, and representation--communicate and publish results. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Digital citizenship--social interactions. The student understands different styles of digital",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Digital citizenship--ethics and laws. The student recognizes and practices responsible, legal, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Digital citizenship--privacy, safety, and security. The student practices safe, legal, and ethical",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Practical technology concepts--processes. The student engages with technology systems,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Practical technology concepts--skills and tools. The student selects appropriate methods or",
+        "Expectations": []
+      }
+    ]
+  }
+}

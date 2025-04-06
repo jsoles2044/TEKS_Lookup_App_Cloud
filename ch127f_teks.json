@@ -1,0 +1,316 @@
+{
+  "Unknown": {
+    "ch127f": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Business, Marketing, and Finance Career Cluster focuses on planning, managing, organizing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Entrepreneurship I, students will gain the knowledge and skills needed to become an",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates an understanding of entrepreneurship. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student researches corporations, limited liability corporations, franchises, partnerships,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student engages in discovery activities related to entrepreneurship. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student identifies problems and creates solutions to address market wants and needs. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student understands the key components included in a business plan. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student demonstrates an understanding of a business planning methodology. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student creates a plan for a preliminary business concept. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student develops and delivers a comprehensive presentation on a preliminary business",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student knows how to access and use organizations and resources to support entrepreneurs.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Business, Marketing, and Finance Career Cluster focuses on planning, managing, organizing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Entrepreneurship II, students gain the knowledge and skills needed to become successful",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates an understanding of the entrepreneurial environment. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student engages in the ideation process and determines the feasibility of an entrepreneurial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student creates a minimum viable product (MVP) for a start-up business. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands how to select a funding source for a start-up business. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student determines an ownership structure for a start-up business. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student uses a business planning tool to develop a start-up business concept. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates an understanding of accounting and financial practices. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student demonstrates an understanding of the legal and regulatory environment for a business.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student demonstrates an understanding of ethical and moral obligations in entrepreneurship as",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands the impact of leadership, human resources, and management on a start-up",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student determines a pricing structure for a start-up business. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student determines effective marketing and promotional strategies for a start-up business. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student understands the role of distribution and supply chain management for a start-up",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student understands key metrics to measure the success of a business. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student presents a well-organized business plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student understands the process for launching a start-up business. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "This course can serve in multiple CTE programs of study, as it focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Entrepreneurship provides students the opportunity to apply classroom learning and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to transition from the idea phase to action and implementation of a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes major problem areas and potential problem areas for entrepreneurs while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student identifies the appropriate legal structure, benefits, and drawbacks for different",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student determines how to obtain funding and all associated costs needed to start a particular",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student examines the responsibilities businesses have to employees and the community. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes for-profit and non-profit business growth and exit strategies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student collaborates in small groups to complete a project-based research activity to develop",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "This course can serve in multiple CTE programs of study, as it focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Entrepreneurship provides students the opportunity to apply classroom",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to transition from the idea phase to action and implementation of a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety and security techniques in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the ethical and legal responsibilities in entrepreneurship. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in an entrepreneurial experience. The student is expected to:",
+        "Expectations": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "Unknown": {
+    "ch116b": [
+      {
+        "Code": "8.1",
+        "Strand": "Physical education is the foundation of a well-balanced curriculum. \"It is an academic subject with",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The physical education standards are categorized into five strands that are of equal importance and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Quality physical education programs include a comprehensive curriculum, physical activity, safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Access to age-appropriate physical education equipment is essential to quality instruction. Basic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "In Grades 6-8 physical education, students apply sport concepts; recognize key elements for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Movement patterns and movement skills--locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Movement patterns and movement skills--non-locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Movement patterns and movement skills--manipulative skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Movement patterns and movement skills--spatial and body awareness. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Movement patterns and movement skills--rhythmic activities. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Performance strategies--games and activities. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Performance strategies--outdoor and recreational pursuits. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Health, physical activity, and fitness--fitness principles. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Health, physical activity, and fitness--analyze data. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Health, physical activity, and fitness--nutrition and hydration. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Health, physical activity, and fitness--environmental awareness and safety practices. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Social and emotional health--personal responsibility and self-management. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Social and emotional health--resolving conflict and social interaction. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Social and emotional health--perseverance. The physically literate student perseveres while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Social and emotional health--accepting and providing constructive feedback. The physically",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Lifetime wellness--application of lifetime wellness. The physically literate student identifies the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical education is the foundation of a well-balanced curriculum. \"It is an academic subject with",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The physical education standards are categorized into five strands that are of equal importance and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Quality physical education programs include a comprehensive curriculum, physical activity, safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Access to age-appropriate physical education equipment is essential to quality instruction. Basic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "In Grades 6-8 physical education, students apply sport concepts; recognize key elements for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Movement patterns and movement skills--locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Movement patterns and movement skills--non-locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Movement patterns and movement skills--manipulative skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Movement patterns and movement skills--spatial and body awareness. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Movement patterns and movement skills--rhythmic activities. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Performance strategies--games and activities. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Performance strategies--outdoor and recreational pursuits. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Health, physical activity, and fitness--fitness principles. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Health, physical activity, and fitness--analyze data. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Health, physical activity, and fitness--nutrition and hydration. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Health, physical activity, and fitness--environmental awareness and safety practices. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Social and emotional health--personal responsibility and self-management. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Social and emotional health--resolving conflict and social interaction. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Social and emotional health--perseverance. The physically literate student perseveres while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Social and emotional health--accepting and providing constructive feedback. The physically",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Lifetime wellness--application of lifetime wellness. The physically literate student identifies the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Physical education is the foundation of a well-balanced curriculum. \"It is an academic subject with",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The physical education standards are categorized into five strands that are of equal importance and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Quality physical education programs include a comprehensive curriculum, physical activity, safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Access to age-appropriate physical education equipment is essential to quality instruction. Basic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "In Grades 6-8 physical education, students apply sport concepts; recognize key elements for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Movement patterns and movement skills--locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Movement patterns and movement skills--non-locomotor skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Movement patterns and movement skills--manipulative skills. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Movement patterns and movement skills--spatial and body awareness. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Movement patterns and movement skills--rhythmic activities. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Performance strategies--games and activities. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Performance strategies--outdoor and recreational pursuits. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Health, physical activity, and fitness--fitness principles. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Health, physical activity, and fitness--analyze data. The physically literate student demonstrates",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Health, physical activity, and fitness--nutrition and hydration. The physically literate student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "Health, physical activity, and fitness--environmental awareness and safety practices. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "Social and emotional health--personal responsibility and self-management. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "Social and emotional health--resolving conflict and social interaction. The physically literate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "Social and emotional health--perseverance. The physically literate student perseveres while",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "Social and emotional health--accepting and providing constructive feedback. The physically",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "Lifetime wellness--application of lifetime wellness. The physically literate student identifies the",
+        "Expectations": []
+      }
+    ]
+  }
+}

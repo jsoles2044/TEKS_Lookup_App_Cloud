@@ -1,0 +1,836 @@
+{
+  "Unknown": {
+    "ch130f": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Financial Mathematics is a course about personal money management. Students will apply",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Financial Mathematics will integrate career and postsecondary education planning into financial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The mathematical process standards describe ways in which students are expected to engage in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses mathematical processes to acquire and demonstrate mathematical understanding.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the cost of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of various",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of retirement",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of a fixed",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of wills and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of charitable",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding of identity",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student applies mathematical process standards to demonstrate an understanding for a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Money Matters, students will investigate money management from a personal financial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses career planning concepts, tools, and strategies to explore, obtain, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student demonstrates an understanding of a postsecondary plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates an understanding of the fundamental principles of money. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student examines economic systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student examines personal financial activities and the role of government. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student discusses economic indicators impacting personal financial decision making. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes the impact of international activities on personal financial decision making.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student examines how personal financial decisions are used to achieve financial goals. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student understands the purposes of financial service providers. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student identifies various investment strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student identifies methods to manage personal risk. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Securities and Investments, students will understand the laws and regulations to manage",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student describes laws and regulations in order to manage personal and business operations",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student describes investment analysis and selection processes. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student identifies investments. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands security and investment operations. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explores security and investment licensing and certification programs. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student understands investments and their relationships to the economy. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates an understanding of securities and investments products. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student demonstrates an understanding of a postsecondary plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Insurance Operations, students will understand the laws and regulations in order to manage",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student has an understanding of the insurance industry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores careers in insurance. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student examines regulations that ensure compliance adherence to insurance industry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explains legal concepts pertinent to the insurance industry. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student identifies the components used in the insurance industry for approval and denial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student has an understanding of insurance fraud. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates an understanding of the claims process. The student is expected to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student identifies different insurance providers and rates. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student demonstrates an understanding of identity theft. The student is expected to create a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student demonstrates an understanding of a postsecondary plan. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Banking services are primarily concerned with accepting deposits, lending funds, and extending",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "In Banking and Financial Services, students will develop knowledge and skills in the economic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student evaluates the role of banking in the modern economy. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student acquires knowledge of banking processes and services. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes the roles and responsibilities in banking services, including educational",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student determines client needs and wants and responds through planned, personalized",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student simulates the day-to-day activities within a banking organization in order to ensure",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student describes laws and regulations used to manage business operations and transactions in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student investigates ways to create and maintain positive, ongoing relationships with banking",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student maintains, monitors, controls, and plans the use of financial resources to enhance",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Accounting encompasses careers that record, classify, summarize, analyze, and communicate a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "In Accounting I, students will investigate the field of accounting, including how it is impacted by",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student communicates an understanding of the accounting industry. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses career planning concepts, tools, and strategies to explore accounting careers. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses equations, graphical representations, accounting tools, strategies, and automated",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes cash controls. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student performs accounting functions for a merchandising business. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student performs accounts payable functions. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student performs accounts receivable functions. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student investigates merchandise inventory to determine the impact on a company's financial",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student completes payroll procedures to calculate, record, and distribute payroll earnings and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student performs specialized accounting functions for a corporation and completes an",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student describes laws and regulations in order to manage business operations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student accesses, processes, maintains, evaluates, and disseminates financial information to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Accounting encompasses careers that record, classify, summarize, analyze, and communicate a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "In Accounting II, students will continue the investigation of the field of accounting,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The mathematical process standards describe ways in which students are expected to engage in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses mathematical processes to acquire and demonstrate mathematical understanding.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student performs accounting functions specific to a corporation. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student discusses and performs accounting functions in a financial statement analysis. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student describes and employs managerial accounting concepts. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student maintains, monitors, controls, and plans the use of financial resources to ensure",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student describes laws and regulations in order to manage business operations and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student accesses, processes, maintains, evaluates, and disseminates financial information to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Financial Analysis, students will apply knowledge and technical skills in the economic,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes accounting systems to examine their contribution to the fiscal stability of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores the use of financial resources. The student is expected to describe tools,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates mathematics knowledge and skills required when interpreting business",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes financial resources to ensure business solvency. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student calculates business ratios to evaluate company performance. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes a financial statement. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student examines the nature and scope of risk management in finance. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student develops an understanding and working knowledge of annual reports. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student explores the role of ethics in finance. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student employs critical-thinking skills independently and in teams to solve problems and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student performs a case study analysis of a specific company to apply the concepts learned in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Finance Career Cluster focuses on planning, services for financial and investment planning,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Statistics and Business Decision Making is an introduction to statistics and the application of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The process standards describe ways in which students are expected to engage in the content. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses mathematical processes to acquire and demonstrate mathematical understanding.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses career planning concepts, tools, and strategies to explore a career in the area of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and demonstrates the use of statistics in business areas, including",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands and demonstrates the ethical and responsible use of statistics in business.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student evaluates risk-management strategies and techniques in corporate finance to maximize",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student evaluates financial information using statistical analysis to assist business decision",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands and demonstrates the defining and collecting of data. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student will understand and demonstrate the organization and visualization of data. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student understands and demonstrates the use of descriptive measures. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands and demonstrates the use of probability. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student understands and demonstrates the use of probability distribution for discrete variables.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student understands and demonstrates the use of probability distribution for continuous",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student understands and demonstrates the use of sampling distribution, sampling distribution",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student understands and demonstrates the use and construction of confidence intervals. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student understands and demonstrates hypothesis testing for one sample tests and two sample",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student understands analysis of variance. The student is expected to understand and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student understands and demonstrates the use of chi-square test. The student is expected to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student understands and demonstrates the use of nonparametric test. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student understands simple linear regression. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student understands an introduction to multivariable regression: The student is expected to use",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student understands time series analysis and forecasting. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student demonstrates an understanding of a postsecondary plan. The student is expected to:",
+        "Expectations": []
+      }
+    ]
+  }
+}

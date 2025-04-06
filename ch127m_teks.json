@@ -1,0 +1,1866 @@
+{
+  "Unknown": {
+    "ch127m": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Law, Public Safety, Corrections, and Security introduces students to professions in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student achieves academic knowledge and skills required for career and postsecondary",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses communication skills in creating, expressing, and interpreting information and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student formulates ideas, proposals, and solutions to address problems related to the career",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student implements measures to maintain safe and healthful working conditions in a law and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes the legal responsibilities associated with roles and functions within law,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student recognizes the importance of interagency cooperation. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands the historical and philosophical development of criminal law. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student identifies the roles of the public safety professional. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student identifies the roles and functions of court systems. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student identifies the roles and functions of the correctional system. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student identifies the roles and functions of private security systems and agencies. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student identifies the roles and functions of fire protection services. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student identifies the roles and functions of student community organizations that support or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "In Correctional Services, students prepare for certification required for employment as a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student researches the history of correctional services in the municipal, county, state, or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student recognizes professional standards and ethical responsibilities in the municipal, county,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses verbal communication skills necessary for municipal, county, state, or federal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student performs active listening skills to obtain and clarify information. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student uses first aid, infection control, and cardiopulmonary resuscitation in a correctional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student recognizes constitutional laws and laws of correctional systems. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student models behaviors during interactions with prisoners that demonstrate concern for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student uses conflict resolution skills and knowledge to resolve conflicts among individuals in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student analyzes hostile situations and executes conflict management strategies to take charge",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student applies technical skill procedures of correctional staff to effectively manage day-to-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student identifies basic organizational models for municipal, county, state, or federal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student recognizes issues related to human behavior and relations in a detention facility. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student identifies methods of screening for and addressing injurious prisoner behavior. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student recognizes intake procedures for a detention facility. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student recognizes various inmate health care issues and processes. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student identifies methods of providing various prisoner services. The student is expected to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student recognizes prisoner and facility security protocols. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student recognizes the appropriate actions to take in emergency situations at a detention",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student identifies report-writing methods and courtroom procedures. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student evaluates situations requiring the use of force. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student analyzes procedures and protocols for self-defense in homeland security and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Firefighter I introduces students to firefighter safety and development. Students will analyze",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses communication skills as related to fire management. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student executes safety procedures and protocols associated with fire management services.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student comprehends the steps to develop an institutional professional growth plan to develop",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies laws, ordinances, regulations, and rules as defined by the Texas Commission",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the stages of a fire, the process of combustion, and the appropriate action to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student describes the methods of heat transfer. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes the physical states of matter in which fuels are commonly found. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student comprehends the fire extinguishment theory. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student describes the characteristics of water as it relates to fire extinguishing potential. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student analyzes the internal systems that sustain life in the human body and identifies the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student demonstrates confidence in performing firefighting skills while wearing a self-",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student demonstrates inspection, care, and testing procedures for the self-contained breathing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student identifies the types and components of fire service protective clothing and personal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student demonstrates the proper testing and operation of a personal alert safety system device.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student recognizes all aspects of the fire department organization. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student recognizes common types of accidents and injuries and their causes. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student describes the handling of different types of accidents and hazards. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student identifies safety procedures for ensuring a safe environment. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Firefighter II is the second course in a series for students studying firefighter safety and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses information technology applications as they pertain to fire management",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student evaluates behaviors, strategies, and protocols that demonstrate an understanding of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student describes the characteristics and applications for the classes of extinguishers. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explains the purpose of the National Fire Protection Association standards applicable",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the purpose of the National Fire Protection Association standards applicable",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student explains requirements for the production of effective fire streams. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student identifies water supply sources and methods to move water from the supply source to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student explains the duties of a firefighter after a fire. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Law Enforcement I is an overview of the history, organization, and functions of local, state, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores the legal authorities pertaining to law enforcement officers' use of force. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses verbal and nonverbal communication skills necessary for law enforcement. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates a working knowledge of the laws, methods, and techniques relative to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands ethical behavior standards required for law enforcement personnel. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explores the U.S. legal system and the requirements for law enforcement. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes custody and interrogation as they relate to the U.S. Supreme court decision",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes procedural and substantive criminal law. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student analyzes law related to victims and witnesses. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student executes protocols and procedures protecting the rights of juvenile offenders and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student analyzes the steps in handling family violence calls involving Temporary Ex Parte",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student explains laws associated with the Texas Health and Safety Code. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student summarizes the philosophy and concepts that influence the development and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student uses field note-taking and report-writing skills to complete a police call sheet, an",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student analyzes reasonable suspicion and probable cause for motor vehicle traffic stops. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student employs procedures to protect, document, and process a crime scene. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student demonstrates and applies a working knowledge of the detection, apprehension, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student demonstrates a working knowledge of a tactical entry into a residence and building",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Law Enforcement II provides the knowledge and skills necessary to prepare for a career in law",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student achieves the academic knowledge and skills required to prepare for postsecondary",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses telecommunications equipment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student presents testimony in legal proceedings in accordance with courtroom procedures.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student recognizes the importance of using interpersonal communication techniques to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student examines the techniques used to manage crisis situations and maintain public safety.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student understands techniques to foster public cooperation for victims in a variety of law",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes procedures and protocols for domestic violence. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student explores civil law enforcement procedures for serving writs, warrants, and summons.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student analyzes local and state law enforcement procedures pertaining to alcohol and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student explores laws and procedures to enforce violations of driving while intoxicated and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student identifies crowd control methods. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student evaluates situations requiring the use of force. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student describes procedures designed to safely transport a person in custody. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student conducts interviews and interrogations of individuals ensuring protection of rights as",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student investigates and documents a motor vehicle accident. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student recognizes law enforcement roles in preparedness and response systems for disaster",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student explores procedures for handling and managing explosives and hazardous material",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student examines law enforcement functions regarding critical infrastructure protection from",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student explores new and emerging technologies in law enforcement. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student evaluates patrol procedures and response to calls for service encountered by first",
+        "Expectations": []
+      },
+      {
+        "Code": "8.22",
+        "Strand": "The student evaluates the importance of first responders in developing a positive community",
+        "Expectations": []
+      },
+      {
+        "Code": "8.23",
+        "Strand": "The student demonstrates procedures in investigating a crime scene. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Criminal Investigation is a course that introduces students to the profession of criminal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores criminal investigative procedures, investigations, and follow-up according to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student uses proper equipment in documenting the crime scene during field investigations.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses critical-thinking and problem-solving skills to create sketches for indoor and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explores writing effective reports for criminal investigations. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student recognizes legal searches and the Fourth Amendment as it applies to searches. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student determines what search patterns should be used in exterior and interior searches of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student recognizes the procedures of evidence collection while maintaining the integrity of a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student recognizes the methods to process and analyze trace evidence commonly found in a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student analyzes collected fingerprints or impressions from a simulated crime scene. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student analyzes blood spatter at a simulated crime scene. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student explores toxicology laboratory procedures in crime labs. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student explores serology laboratory procedures in criminal investigations. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student identifies drugs found at a simulated crime scene. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student evaluates bullet and tool mark impressions in a criminal investigation. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student calculates the time and cause of death in relationship to decomposition of the human",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student understands how physical evidence can provide a basis for questioning people about a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student develops a suspect profile when there is not a suspect at the crime scene and a suspect",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Court Systems and Practices is an overview of the federal and state court systems. The course",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student examines the structure of the legal system in the United States. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores the roles and responsibilities of members of courtroom work groups. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student recognizes communication skills needed for courtroom policies and procedures. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student examines the steps by which a criminal charge is processed through pretrial, trial,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explains the structure and provisions of the U.S. Constitution and the Bill of Rights",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Federal Law Enforcement and Protective Services provides the knowledge and skills necessary to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates professional standards as required by federal law enforcement and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores the history of federal law enforcement and protective services in the United",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student identifies health, safety, and environmental responsibilities of federal law",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes the impact of ethical and legal responsibilities relevant to federal law",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explains risk management principles as they apply to security functions for the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes the role of computer forensics in security operations. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes security systems and their role in an overall security strategy. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student investigates disaster response in emergency situations as it relates to the duties of a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student recognizes the role of intelligence analysis in crime prevention and homeland",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student applies crime prevention concepts. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student evaluates situations requiring the use of force. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student analyzes procedures and protocols for self-defense in homeland security and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student recognizes the importance of critical infrastructures and key assets. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student identifies chemical and biological threat identification, protection, detection, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student recognizes law enforcement roles in preparedness and response systems for disaster",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The practicum course is designed to give students supervised practical application of previously",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates professional standards as required by business and industry. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates leadership and teamwork skills in collaborating with others to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student demonstrates verbal, nonverbal, and written communication skills in creating,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student demonstrates technical knowledge and skills required to pursue a career in the Law,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student documents technical knowledge and skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law, Public Safety, Corrections, and Security Career Cluster focuses on planning, managing,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Law, Public Safety, Corrections, and Security is designed to give students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student implements advanced professional communications strategies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands and applies proper safety techniques in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in teaching and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student participates in a supervised law, public safety, corrections, or security experience. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Government and Public Administration introduces students to foundations of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores major political ideas and forms of government in history. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands how constitutional government, as developed in the United States, has",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student compares the similarities and differences that exist among the U.S. system of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explores rights guaranteed by the U.S. Constitution. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student recognizes the difference between personal and civic responsibilities. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student recognizes the importance of voluntary individual participation in the U.S. democratic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student recognizes the relationship between government policies and the culture of the United",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student identifies the influence of geography on governmental and public administrative",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student interprets and applies concepts of governance to assess functions of government and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student works with different forms and methods of communication used to manage and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student uses technologies to research common objectives of government and public",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Political Science I introduces students to political theory through the study of governments; public",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student compares and contrasts current, classic, or contemporary political theories. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores historical origins of government. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes belief systems that claim to improve society. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies the concepts learned in the history and ideology of political science. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student identifies the roles played by local, state, and national governments in public and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes public opinion. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student identifies interest groups. The student is expected to compare and contrast the positive",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student analyzes the election process. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student explores the processes for filling public offices in the U.S. system of government. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student examines the role of political parties in the U.S. system of government. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student applies the concepts of statistical analysis to political science. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Political Science II uses a variety of learning methods and approaches to examine the processes,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes public administration and public affairs. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student identifies the cause and effect of expression of different viewpoints in a democratic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes international relations. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explores diplomacy as the management of international relations by negotiation. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student analyzes international governmental organizations and non-governmental",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes the flow of ideas and information among the federal government, public",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Foreign Service and Diplomacy provides the opportunity for students to investigate the knowledge",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student integrates knowledge and presentation skills related to diplomacy and representing the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies knowledge of foreign history, law, geography, and natural resources to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies U.S. and host-country laws, regulations, policies, and procedures to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies knowledge of host-country laws, customs, and effective administrative",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Planning and Governance provides the opportunity for students to formulate plans and policies to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies the skills necessary to manage and modify the community planning process.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student develops a workplace or activity-based project and plans for land use, housing, parks",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student creates a coherent plan for project management. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses advanced research and organizational skills to influence matters of public policy.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student develops reasoned, persuasive arguments to support public policy options or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student develops political instincts and understanding of political processes to gain consensus.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student advocates new policies or policy changes to gain support for new or revised laws,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "National Security introduces the students to the aspects of disaster management. The course",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores and examines the personnel and organizational structure within a security",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes the leadership skills necessary to ensure compliance with rules of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes intelligence information from within and outside the United States through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student practices methods that translate and analyze signals to discover elements indicative of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student prepares and coordinates strategies to defend against the effects of chemical,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student develops strategies to train persons potentially performing national security tasks. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Public Management and Administration reviews actions and activities that governments and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes management theories. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student compares and contrasts department vision, goals, and mission to support those of a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student practices the process of facilitating the flow of ideas and information to keep the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses agency expertise used by elected officials and others to identify, implement, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student uses planning and fiscal services used to fund agency priorities. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student develops and manages plans and systems that would meet agency needs without",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student applies laws and policies to protect or disclose information as appropriate. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Revenue, Taxation, and Regulation provides an overview of law and investigative principles and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores the investigation and evidence collection process in mock situations similar",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes the process of agency communication with the public. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student uses critical-thinking and problem-solving skills for revenue, taxation, and regulation",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student is expected to scrutinize regulatory investigations and enforcement. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Students in the Practicum in Local, State, and Federal Government will concurrently learn",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes classical and modern political theories. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes the U.S. Constitution and constitutional law. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student explores government ethics. The student is expected to formulate a plan for avoiding",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student conducts a project using analytical problem-solving techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student documents knowledge and skills attained in the practicum. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Government and Public Administration Career Cluster focuses on planning and performing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Students in the Extended Practicum in Local, State, and Federal Government will concurrently",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student implements advanced professional communications strategies. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies concepts of critical thinking and problem solving. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in government and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student conducts a project using analytical problem-solving techniques. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2023, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Law and Public Service Career Cluster focuses on planning, managing, and providing legal",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Forensic Science is a survey course that introduces students to the application of science to law.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Science, as defined by the National Academy of Sciences, is the \"use of evidence to construct",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are expected to know that:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Scientific inquiry is the planned and deliberate investigation of the natural world using scientific",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Scientific decision making is a way of answering questions about the natural world involving its",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Science consists of recurring themes and making connections between overarching concepts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student, for at least 40% of instructional time, asks questions, identifies problems, and plans",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes and interprets data to derive meaning, identify features and patterns, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student develops evidence-based explanations and communicates findings, conclusions, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student knows the contributions of scientists and engineers and recognizes the importance of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student explores the history of forensic science. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes legal aspects within forensic science. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student explores career options within forensic science. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student recognizes the procedures of crime scene investigation while maintaining scene",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student analyzes fingerprint evidence in forensic science. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student collects and analyzes impression evidence in forensic science. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student recognizes the methods to process and analyze hair and fibers found in a crime scene.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student recognizes the methods to process and analyze glass evidence. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student explores principles of questioned document analysis in the physical and digital form.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student evaluates firearms and ballistics evidence. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student identifies controlled and illicit substances. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student explores toxicology in forensic science. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student analyzes blood spatter at a simulated crime scene. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student analyzes the foundations and methodologies surrounding the processing of biological",
+        "Expectations": []
+      },
+      {
+        "Code": "8.20",
+        "Strand": "The student explores the principles surrounding medicolegal death investigations. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.21",
+        "Strand": "The student explores principles of anthropology and odontology relevant to forensic science. The",
+        "Expectations": []
+      }
+    ]
+  }
+}

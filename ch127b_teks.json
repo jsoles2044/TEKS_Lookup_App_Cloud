@@ -1,0 +1,496 @@
+{
+  "Unknown": {
+    "ch127b": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The process standards describe ways in which students are expected to engage in the content. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here?",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Applied Mathematics for Technical Professionals uses problem-solving situations, hands-on",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student uses mathematical processes to acquire and demonstrate mathematical understanding.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student uses mathematical concepts of algebra to explain linear and non-linear applications in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies geometric concepts to real-world problems in technical situations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies measurement to all aspects of business and industry occupations. The student",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student uses mathematical processes with graphical and numerical techniques to study",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies mathematical processes to design a study and use graphical, numerical, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student applies mathematical principles of manufacturing processes. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Construction Technology I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Electrical Technology I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Plumbing Technology I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "HVAC Technology I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Masonry Technology I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "Agriculture Mechanics and Metal Technology;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "Welding I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "Metal Fabrication and Machining I;",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "Oil and Gas Production II; and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "Introduction to Culinary Arts.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "CTE instruction provides content aligned with challenging academic standards, industry-relevant",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The goal of the occupational safety and health standards is to ensure that students develop safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "These standards are required to be addressed in their entirety as part of each of the CTE principles",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Successful completion of the standards may lead to a student earning a ten-hour general industry",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "explain and discuss the responsibilities of workers and employers to promote safety and health in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "explain and discuss the importance of OSHA standards and OSHA requirements for organizations,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "explain the role industrial hygiene plays in occupational safety and explain various types of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "identify and explain the appropriate use of types of personal protective equipment used in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "discuss the importance of safe walking and working surfaces in the workplace and best practices",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "describe types of electrical hazards in the workplace and the risks associated with these hazards",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "analyze the hazards of handling, storing, using, and transporting hazardous materials and identify",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "identify workplace health and safety resources, including emergency plans and Safety Data",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "describe the elements of a safety and health program, including management leadership, worker",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "explain the purpose and importance of written emergency action plans and fire protection plans",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "explain the components of a hazard communication program; and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "explain and give examples of safety and health training requirements specified by standard setting",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "In Career and Technical Education Project-Based Capstone, students independently or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Career and Technical Education Project-Based Capstone is a course designed for students to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student investigates independently or collaboratively a problem, issue, or interest within a",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies and develops key partnerships related to a problem, issue, or interest under",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student determines timeline goals for project completion and appropriate benchmarks to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student develops a project management timeline for deliverables. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student creates a risk analysis for a project. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student identifies necessary approvals required for a project. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student implements a project that meets standards recognized within a selected profession or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student demonstrates an understanding of a selected problem, issue, or interest by explaining",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "A student may repeat this course one time for credit provided that the student is experiencing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "A student may not earn more than six credits for any combination of career preparation courses",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Career planning is a critical step and is essential to success. Applying to multiple career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Career Preparation General provides opportunities for students to participate in a work-based",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional employability skills to gain an entry-level position. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student develops essential skills necessary for success in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies academic skills to the workplace. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student exemplifies appropriate interpersonal skills in the workplace. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student applies ethical codes of conduct and legal responsibilities within school and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies concepts and skills related to safety in the workplace. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student evaluates personal attitudes, work habits, and skills that support job retention and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student identifies skills and attributes necessary for professional success. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "A student's employment experience connected with this course must be related to the student's",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "A student may repeat this course one time for credit provided that the student is experiencing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "A student may not earn more than six credits for any combination of career preparation courses",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Career planning is a critical step and is essential to success. Applying to multiple career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Career Preparation for Programs of Study provides additional opportunities for students to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student applies and evaluates employability skills to improve the student's marketability",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates essential skills necessary for success in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies and enhances academic knowledge and skills in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student demonstrates leadership qualities by applying work ethic, job expectations,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student models ethical codes of conduct and legal responsibilities within school and the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies concepts and skills related to safety in the workplace. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student models the skills that support employment retention and advancement. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes postsecondary career opportunities within a selected program of study. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "A student may repeat this course one time for credit provided that the student is experiencing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "A student may not earn more than six credits for any combination of career preparation courses",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "Career planning is a critical step and is essential to success. Applying to multiple career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Career Preparation is an enhancement and extension to Career Preparation General or",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates employability skills as required by business and industry. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student demonstrates essential skills for success in the workplace. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student applies and enhances academic knowledge and skills in the workplace. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student exemplifies appropriate interpersonal and communication skills in the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student models ethical codes of conduct and legal responsibilities within the workplace. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies concepts and skills related to safety in the workplace. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student participates in a paid or an unpaid career preparation experience. The student is",
+        "Expectations": []
+      }
+    ]
+  }
+}
