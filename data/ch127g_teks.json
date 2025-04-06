@@ -1,0 +1,996 @@
+{
+  "Unknown": {
+    "ch127g": [
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Education and Training is a field-based internship that provides students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to employ",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in education and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student continues to participate in field-based experiences in education and training. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Principles of Education and Training is designed to introduce learners to the various careers",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills required by the education",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies strategies that promote health and wellness to address the unique challenges",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student recognizes the impact of social media and web-based applications on the education",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student investigates the range of employment opportunities in the education and training field.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student explains societal impacts on the education and training field. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the characteristics of different educational and training environments. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student experiences authentic education and training opportunities. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student identifies elements of an effective classroom environment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student analyzes the education and training requirements for a career in an area of interest.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student documents technical knowledge and skills related to education and training. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands how classroom observations (video or in person) inform and improve",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Child Development is a course that addresses knowledge and skills related to child growth and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes roles and responsibilities of caregivers or guardians. The student is expected",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student examines the care, protection, and safety of children. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student investigates components of optimal prenatal care and development. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student investigates strategies for optimizing the development of children ages birth through",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student investigates strategies for optimizing the development of children ages 13 months",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student analyzes the growth and development of children ages 3 through 5 years, including",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes the growth and development of children ages 6 through 11 years, including",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student analyzes the growth and development of children ages 12 through 19 years, including",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2024, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Child Guidance is a course that addresses the knowledge and skills related to child growth and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student practices ethical and legal responsibilities associated with providing childcare",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student analyzes childcare options for children of various ages. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes responsibilities that promote health and wellness of children. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student analyzes the effect of play in the development of children. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student applies appropriate guidance techniques for children of various ages and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student will implement appropriate strategies and practices for optimizing the development of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student will implement appropriate strategies and practices for optimizing the development of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student will implement appropriate strategies and practices for optimizing the development of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student makes informed career decisions that reflect personal, family, and career goals. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2024, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The Child Development Associate Foundations course is a laboratory course addressing the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student identifies professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands the need for establishing a safe, healthy learning environment for young",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student recognizes the importance of advancing each child's physical and intellectual",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student analyzes social and emotional development in young children. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student discusses the need for providing positive guidance in an early childhood classroom.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student describes the benefits of objective observations and assessments of young children in",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student examines the importance of positive and productive relationships with families of",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student analyzes the components of operating an effective, professional early childhood",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student documents technical knowledge and skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Early Learning is a field-based course that provides students background knowledge",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student explores the early childhood education profession. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands the learner and learning process. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student plans and implements effective instruction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student creates and maintains an effective learning environment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student assesses instruction and learning. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student understands the relationship between school, families, and community in early",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student develops technology skills appropriate for effectively supporting students in the",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities of early childhood",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student explores the need and opportunities for continued professional development for early",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands facility operations, including nutrition, program management, and safety",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student continues to participate in field-based experiences in early childhood settings. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student documents technical knowledge and skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Extended Practicum in Early Learning is a field-based internship that provides students",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student applies professional communications strategies. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student implements advanced problem-solving methods. The student is expected to employ",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in early childhood",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student continues to participate in field-based experiences in early childhood education and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2024, the commissioner of education shall determine whether",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Human Growth and Development is an examination of human development across the lifespan",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands historical, theoretical, and research perspectives of human growth and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands the importance of prenatal care in the development of a child. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the development of children ages newborn through two years. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student understands the development of children ages 3 through 5 years. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student understands the development of children ages 6 through 11 years. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student understands the development of adolescents ages 12 through 19 years. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student understands the importance of care and protection of children and adolescents. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student understands the development of adults ages 20 through 39 years. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student understands the development of adults ages 40 through 65 years. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands the development of adults ages 66 years and older. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student explores career opportunities available in education and training and human services.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2024, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Communication and Technology in Education is an extended course of study designed to provide",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by business and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities when communicating",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student understands multiple forms of communication necessary for effective teaching. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student applies digital literacy concepts to communication with students and stakeholders.",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student evaluates technology and applications for classroom use. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student creates engaging lessons and lesson plans incorporating technology. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Instructional Practices is a field-based (practicum) course that provides students with background",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by the education",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student identifies strategies that promote health and wellness by balancing the unique",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores the teaching and training profession. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the learner and the learning process. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student interacts effectively in the role of an educator. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student plans and develops effective instruction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student creates an effective learning environment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student assesses teaching and learning. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student understands the relationship between school and society. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student develops technology skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in teaching and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student participates in field-based experiences in education and training. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student documents technical knowledge and skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student demonstrates the knowledge and skills needed to provide meaningful, specific, and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.15",
+        "Strand": "The student demonstrates knowledge and understanding of teacher responsibility with regard to",
+        "Expectations": []
+      },
+      {
+        "Code": "8.16",
+        "Strand": "The student demonstrates proper record-keeping strategies needed by teachers to demonstrate",
+        "Expectations": []
+      },
+      {
+        "Code": "8.17",
+        "Strand": "The student uses standard observation techniques to observe a variety of educational settings. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.18",
+        "Strand": "The student assesses the benefits of how a mentor relationship impacts a teaching career. The",
+        "Expectations": []
+      },
+      {
+        "Code": "8.19",
+        "Strand": "The student analyzes teacher employment requirements and professional growth opportunities for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "No later than August 31, 2022, the commissioner of education shall determine whether instructional",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "If the commissioner makes the determination that instructional materials funding has been made available,",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "If the commissioner does not make the determination that instructional materials funding has been made",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "Career and technical education instruction provides content aligned with challenging academic",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The Education and Training Career Cluster focuses on planning, managing, and providing",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "Practicum in Education and Training is a field-based course that provides students background",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "Students are encouraged to participate in extended learning experiences such as career and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "Statements that contain the word \"including\" reference content that must be mastered, while those",
+        "Expectations": []
+      },
+      {
+        "Code": "8.1",
+        "Strand": "The student demonstrates professional standards/employability skills as required by teaching and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.2",
+        "Strand": "The student analyzes strategies that promote health and wellness to address the unique challenges",
+        "Expectations": []
+      },
+      {
+        "Code": "8.3",
+        "Strand": "The student explores the teaching and training field and profession. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.4",
+        "Strand": "The student understands the learner and learning process. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.5",
+        "Strand": "The student interacts effectively in the role of an educator. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.6",
+        "Strand": "The student plans and uses effective instruction. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.7",
+        "Strand": "The student creates and maintains an effective learning environment. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.8",
+        "Strand": "The student assesses instruction and learning. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.9",
+        "Strand": "The student understands the relationship between school and society. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.10",
+        "Strand": "The student develops technology skills. The student is expected to:",
+        "Expectations": []
+      },
+      {
+        "Code": "8.11",
+        "Strand": "The student understands the professional, ethical, and legal responsibilities in teaching and",
+        "Expectations": []
+      },
+      {
+        "Code": "8.12",
+        "Strand": "The student explores the need and opportunities for continued professional development for",
+        "Expectations": []
+      },
+      {
+        "Code": "8.13",
+        "Strand": "The student participates in field-based experiences in education or training. The student is",
+        "Expectations": []
+      },
+      {
+        "Code": "8.14",
+        "Strand": "The student documents technical knowledge and skills. The student is expected to:",
+        "Expectations": []
+      }
+    ]
+  }
+}
